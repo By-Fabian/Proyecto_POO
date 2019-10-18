@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/utec/Documentos/Proyecto_POO/funciones.cpp" "/home/utec/Documentos/Proyecto_POO/cmake-build-debug/CMakeFiles/Proyecto_POO.dir/funciones.cpp.o"
-  "/home/utec/Documentos/Proyecto_POO/main.cpp" "/home/utec/Documentos/Proyecto_POO/cmake-build-debug/CMakeFiles/Proyecto_POO.dir/main.cpp.o"
+  "/home/utec/CLionProjects/Yuri/ProyectoPOOV1/funciones.cpp" "/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/CMakeFiles/Proyecto_POO.dir/funciones.cpp.o"
+  "/home/utec/CLionProjects/Yuri/ProyectoPOOV1/main.cpp" "/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/CMakeFiles/Proyecto_POO.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/utec/Documentos/Proyecto_POO/cmake-build-debug"/>
+				<Option working_dir="/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/utec/Documentos/Proyecto_POO/cmake-build-debug"/>
+				<Option working_dir="/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Proyecto_POO">
-				<Option output="/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Proyecto_POO" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/utec/Documentos/Proyecto_POO/cmake-build-debug"/>
+				<Option output="/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Proyecto_POO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto_POO"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto_POO"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Proyecto_POO/fast">
-				<Option output="/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Proyecto_POO" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/utec/Documentos/Proyecto_POO/cmake-build-debug"/>
+				<Option output="/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Proyecto_POO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,33 +67,33 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto_POO/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto_POO/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/utec/Documentos/Proyecto_POO/cmake-build-debug"/>
+				<Option working_dir="/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/utec/Documentos/Proyecto_POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/utec/CLionProjects/Yuri/ProyectoPOOV1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/utec/Documentos/Proyecto_POO/funciones.cpp">
+		<Unit filename="/home/utec/CLionProjects/Yuri/ProyectoPOOV1/funciones.cpp">
 			<Option target="Proyecto_POO"/>
 		</Unit>
-		<Unit filename="/home/utec/Documentos/Proyecto_POO/funciones.h">
+		<Unit filename="/home/utec/CLionProjects/Yuri/ProyectoPOOV1/funciones.h">
 			<Option target="Proyecto_POO"/>
 		</Unit>
-		<Unit filename="/home/utec/Documentos/Proyecto_POO/main.cpp">
+		<Unit filename="/home/utec/CLionProjects/Yuri/ProyectoPOOV1/main.cpp">
 			<Option target="Proyecto_POO"/>
 		</Unit>
-		<Unit filename="/home/utec/Documentos/Proyecto_POO/CMakeLists.txt">
+		<Unit filename="/home/utec/CLionProjects/Yuri/ProyectoPOOV1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
