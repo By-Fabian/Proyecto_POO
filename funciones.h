@@ -23,9 +23,13 @@
  Clase"Robots":
  Atributos:(Libre/Ocupada),(Medidas),(#unidad),(Prendido/Apagado),(Home),(Carga maxima),(Longitud de Gaaaarra),(Reconocer),(Producto),(Numero de Pedidos),(Colas)
  Metodos: (Crear)(Recoger/Ingresar),(Prenderse/Apagarse),(Moverse/Pararse)
- Clase"Pedidos":
- Atributos:
- Metodos:
+
+ Clase"Cola de Ejecucion":
+ Atributos:(Vacia/Ocupada),(
+ Metodos:(Hacer instrucción)
+
+
+
 
 
 //Obejtos:
@@ -38,10 +42,10 @@
 
 //Atributos:
 
--Robots:(Libre/Ocupada),(Medidas),(Unidad),(Prendido/Apagado),(Home),(Carga maxima),(Longitud de Gaaaarra).
--Cajas:(Libre/Ocupada),(Medidas),(Peso),(Tipo de Producto),(Numero de Slot).
--Slots:(Libre/Ocupada),(Producto),(Capacidad),(Posición)
--Almacen: (Libre/Ocupada),(Medidas),(Unidad)
+-Robots:(Libre/Ocupada),(Prendido/Apagado),(Largo,Ancho,Alto),(#Unidad),(Home),(Carga maxima),(Ubicacion:fila,columna,nivel de slot).
+-Cajas:(Libre/Ocupada),(Largo,Ancho,Alto),(Peso),(Producto),(Ubicacion:fila,columna,nivel de slot).
+-Slots:(Libre/Ocupada),(Producto),(Capacidad),(Posición:filas,columnas))
+-Almacen: (Libre/Ocupada),(Largo,Ancho,Niveles),(Unidad)
 
 //Metodos:
 
@@ -58,4 +62,8 @@
 
 //Funciones:
 
+ Nombre del Proyecto: "DisBik"
+
+ gaaaav2
  */
+
