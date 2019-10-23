@@ -28,7 +28,23 @@ private:
     t_no_negative pr_ubicación;          //Ubicacion del robot
 
 public:
-    //falta añadir
+    void m_encender();
+    void m_apagar();
+    void m_suspendido();
+    void m_cargar_bateria();
+    void m_moverse();
+    void recoger();
+    void ingresar();
+    void SetDisponibilidad (t_button set_disponibilidad){pr_disponibilidad = set_disponibilidad;}
+    void Set(t_no_negative pr_estado;
+    vector<t_no_negative>pr_home[3];
+    t_no_negative pr_serie;
+    t_decimals pr_medidas;
+    t_no_negative pr_bateria;
+    t_decimals pr_carga_maxima;
+    t_no_negative pr_ubicación;
+
+
 
 };
 
@@ -47,14 +63,16 @@ public:
 
 //Clases:
 
-
+ -Robot
+ -Almacen
+ -Slots
+ -Cajas
 
 //Obejtos:
 
 -Robots
 -Cajas
 -Slots
--Producto
 -Almacen
 
 //Atributos:
