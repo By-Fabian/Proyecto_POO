@@ -52,6 +52,7 @@
 -Robots:(Crear)(Recoger/Ingresar),(Prenderse/Apagarse),(Moverse/Pararse)
 -Cajas:(Crear)
 -Slots:(Crear)
+-
 -Almacen:(Crear)
 
 //Constructores:
