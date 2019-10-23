@@ -1,3 +1,3 @@
-C:/Users/Jean Pierre/CLionProjects/Proyecto_POO/cmake-build-debug/CMakeFiles/Proyecto_POO.dir
-C:/Users/Jean Pierre/CLionProjects/Proyecto_POO/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Jean Pierre/CLionProjects/Proyecto_POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Usuario/CLionProjects/Proyecto_POO/cmake-build-debug/CMakeFiles/Proyecto_POO.dir
+C:/Users/Usuario/CLionProjects/Proyecto_POO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/CLionProjects/Proyecto_POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
