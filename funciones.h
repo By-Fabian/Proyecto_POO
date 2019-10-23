@@ -90,6 +90,24 @@ public:
 
 };
 
+typedef unsigned int t_longitud ;
+class almacen{
+private:
+    t_longitud p_filas;
+    t_longitud p_columna;
+    t_longitud p_altura;
+
+    t_longitud set_crear_almacen();
+public:
+    almacen();
+    void set_fila(t_longitud _fila) {p_filas = _fila;}
+    void set_columna(t_longitud _columna)  {p_columna = _columna;}
+    void set_altura(t_longitud _altura)    {p_altura  =  _altura;}
+
+    t_longitud get_creación();
+
+
+};
 //inputs
 
 //outpouts
