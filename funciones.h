@@ -25,9 +25,10 @@ private:
     t_decimals pr_medidas;               //Medidas del Robot: Largo,Ancho y Alto).
     t_no_negative pr_bateria;            //Porcentaje de Bateria.
     t_decimals pr_carga_maxima;          //Peso maximo que soporta el robot.
-    t_no_negative pr_ubicación;          //Ubicacion del robot
+    t_no_negative pr_ubicacion;          //Ubicacion del robot
 
 public:
+    //Metodos:
     void m_encender();
     void m_apagar();
     void m_suspendido();
@@ -35,15 +36,24 @@ public:
     void m_moverse();
     void recoger();
     void ingresar();
+    //Setters:
     void SetDisponibilidad (t_button set_disponibilidad){pr_disponibilidad = set_disponibilidad;}
-    void Set(t_no_negative pr_estado;
-    vector<t_no_negative>pr_home[3];
-    t_no_negative pr_serie;
-    t_decimals pr_medidas;
-    t_no_negative pr_bateria;
-    t_decimals pr_carga_maxima;
-    t_no_negative pr_ubicación;
-
+    void SetEstado (t_no_negative set_estado){pr_estado = set_estado;}
+    void SertHome(vector<t_no_negative> set_home[3]){set_home[3] = pr_home[3];}
+    void SetSerie(t_no_negative set_serie){set_serie=pr_serie;}
+    void SetMedidas(t_decimals set_medidas){set_medidas = pr_medidas;}
+    void SetBateria(t_no_negative set_bateria){set_bateria = pr_bateria;}
+    void SetCargaMaxima(t_decimals set_carga_maxima){set_carga_maxima = pr_carga_maxima}
+    void SetUbicacion(t_no_negative set_ubicacion){set_ubicacion = pr_ubicacion}
+    //Getters:
+    t_button getDisponibilidad(){return pr_disponibilidad ;}
+    t_no_negative getEstado(){return pr_estado;}
+    vector<t_no_negative>[3] getHome(){return pr_home;}
+    t_no_negative getSerie(){return pr_serie;}
+    t_decimals getMedidas(){return pr_medidas;}
+    t_no_negative getBateria(){return pr_bateria;}
+    t_decimals getCargaMaxima(){return pr_carga_maxima;}
+    t_no_negative getUbicacion(){return pr_ubicacion;}
 
 
 };
